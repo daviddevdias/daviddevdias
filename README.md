@@ -17,11 +17,11 @@
 
 ## 🧠 About Me
 
-- 🎓 Análise e Desenvolvimento de Sistemas  
-- 💻 Interfaces modernas, responsivas e performáticas  
-- ⚙️ Automação e sistemas com Python  
-- 🧠 Foco em arquitetura e organização de código  
-- 🚀 Evoluindo para Full Stack  
+E aí! Sou o David, gaúcho de Esteio, estudante de Análise e Desenvolvimento de Sistemas e um grande entusiasta da tecnologia. Meu foco principal é o Front-End, mas a verdade é que eu adoro construir projetos que resolvem problemas reais.
+
+O que mais me motiva na programação é tirar uma ideia do papel e transformá-la em algo que as pessoas possam usar. Gosto de estar envolvido em todo o processo: desde rabiscar o design das telas no Figma até dar vida a elas com HTML, CSS e JavaScript. Quando não estou focando na interface, gosto de ir para os bastidores quebrar a cabeça (e me divertir!) criando automações em Python ou explorando o Node.js.
+
+Sou movido por desafios e estou na jornada para me tornar Full Stack. Adoro aprender ferramentas novas e, no momento, estou buscando uma oportunidade profissional para colocar a mão na massa em projetos de verdade, trocar ideias e crescer junto com uma equipe legal.
 
 ---
 
@@ -63,12 +63,7 @@ Evoluir o projeto para um assistente completo com API e interface web.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" />
 
 </div>
 
@@ -101,11 +96,19 @@ Evoluir o projeto para um assistente completo com API e interface web.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/daviddevdias/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="mailto:davidalbuquerquedias2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&to=davidalbuquerquedias2@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://wa.me/5551999086473" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50"/>
 </a>
 
 </div>
