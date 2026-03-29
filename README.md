@@ -39,15 +39,13 @@ Meu objetivo a longo prazo é ser Full Stack. Tô sempre fuçando tecnologias no
 ### 🤖 Jarvis Assistant
 > *Meu assistente pessoal feito em Python com arquitetura modular.*
 
-| ⚙️ O que ele faz | 🏗️ Destaques Técnicos |
+| &nbsp;&nbsp;&nbsp;&nbsp; ⚙️ O que ele faz &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; 🏗️ Destaques Técnicos &nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| 🧠 Interpreta comandos personalizados | 📦 Arquitetura modular e escalável |
-| 📂 Gerencia arquivos (CRUD, backup) | 🧩 Separação de responsabilidades |
-| 📊 Monitora o sistema (CPU, disco) | 🛠️ Uso de `psutil`, `pathlib`, `pyautogui` |
-| 🌐 Integra com APIs externas | 📝 Sistema de logs e tratamento de erros |
-| ⚡ Automatiza tarefas do dia a dia | 🚀 Estrutura pronta pra crescer |
-
-**🚀 Próximo Passo:** Criar uma API e uma interface web pra ele.
+| 🧠 Interpreta comandos personalizados <br><br> | 📦 Arquitetura modular e escalável <br><br> |
+| 📂 Gerencia arquivos (CRUD, backup) <br><br> | 🧩 Separação de responsabilidades <br><br> |
+| 📊 Monitora o sistema (CPU, disco) <br><br> | 🛠️ Uso de `psutil`, `pathlib`, `pyautogui` <br><br> |
+| 🌐 Integra com APIs externas <br><br> | 📝 Sistema de logs e tratamento de erros <br><br> |
+| ⚡ Automatiza tarefas do dia a dia <br><br> | 🚀 Estrutura pronta pra crescer <br><br> |
 
 ---
 
