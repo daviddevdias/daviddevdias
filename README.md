@@ -24,13 +24,18 @@ Meu objetivo a longo prazo é ser Full Stack. Tô sempre fuçando tecnologias no
 
 ---
 
-## 💼 Experiência Prática
+### 🚗 Martelinho de Ouro Premium
+<br>
 
-### 🚗 Martelinho de Ouro Premium 
 **Desenvolvedor Web** | *Fev 2026 - Presente* | 🔗 [Ver Site Online](https://martelinhogoldimpact.com.br/martelinho-newpremium/)
+
 - 🚀 **Refatoração Completa:** Peguei o site da loja que era em WordPress e reescrevi ele todinho na mão usando HTML, CSS e JS puros. Fiz isso pra melhorar o desempenho e ter controle total do código.
+
 - 📱 **Nova Interface:** Refiz o layout inteiro. Deixei com uma pegada mais moderna e arrumei a responsividade pra rodar liso no celular.
+
 - 📈 **Foco em Conversão:** Melhorei as chamadas do site, botei umas animações pra não ficar estático e fiz a integração com WhatsApp e e-mail pra agilizar o atendimento aos clientes.
+
+<br>
 
 ---
 
