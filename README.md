@@ -58,7 +58,7 @@ Meu objetivo a longo prazo é ser Full Stack. Tô sempre fuçando tecnologias no
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,figma,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,python,figma,git,github,linux" />
   <br/>
 </div>
 
