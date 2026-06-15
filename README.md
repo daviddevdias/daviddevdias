@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=22&center=true&vCenter=true&width=700&pause=1000&lines=Transformando+ideias+em+interfaces+reais;Front-End+com+gosto+por+resolver+problemas;Python+%7C+Node.js+%7C+Automação;Futuro+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,7 +45,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🚗 Martelinho de Ouro Premium</h4>
+      <h4>Martelinho de Ouro Premium</h4>
       <sub><b>Desenvolvedor Web</b> · Fev 2026 – Presente</sub>
       <br/><br/>
       Refatorei o site completo saindo do WordPress e reescrevendo
@@ -57,7 +56,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
       <a href="https://martelinhogoldimpact.com.br/martelinho-newpremium/">🔗 Ver site online</a>
     </td>
     <td valign="top" width="50%">
-      <h4>🤖 Jarvis Assistant</h4>
+      <h4>Jarvis Assistant</h4>
       <sub><b>Projeto pessoal</b> · Python · Arquitetura modular</sub>
       <br/><br/>
       Assistente pessoal com comandos customizados, gerenciamento de
@@ -109,7 +108,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
-### ⚡ Estudando agora
+### Estudando agora
 
 <div align="center">
 
@@ -123,7 +122,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
-### 🎓 Formação
+### Formação
 
 <div align="center">
 
