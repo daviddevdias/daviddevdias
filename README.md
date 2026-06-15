@@ -40,7 +40,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
-### 💼 Experiência
+### Experiência
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -126,9 +126,9 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 <div align="center">
 
-🎓 **Análise e Desenvolvimento de Sistemas** — São João Batista de La Salle · 2025–2027
+**Análise e Desenvolvimento de Sistemas** — São João Batista de La Salle · 2025–2027
 
-💻 **Lógica de Programação** (226h) — SENAC-RS · concluído em dez/2024
+**Lógica de Programação** (226h) — SENAC-RS · concluído em dez/2024
 
 </div>
 
@@ -156,47 +156,4 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 </div>
 
-<!--
-=======================================================================
-  DICAS PRO SEU GITHUB (invisível no perfil público)
-=======================================================================
 
-1. REPOSITÓRIO ESPECIAL
-   Este arquivo precisa estar no repo com o mesmo nome do seu usuário:
-   github.com/daviddevdias/daviddevdias
-   Cria ele marcando "Add a README file" e cola esse código lá.
-
-2. FOTO DE PERFIL
-   Uma foto real (ou avatar consistente) faz muita diferença.
-   Perfis sem foto passam menos credibilidade.
-
-3. BIO DO PERFIL (linha curta abaixo do nome no GitHub)
-   Exemplo: "Front-End dev · ADS · Python & JS"
-   Direto ao ponto — ninguém lê frase longa.
-
-4. PINS (repositórios fixados na home)
-   Fixe 4-6 repos com:
-   - README explicando o projeto
-   - Código organizado (pasta src/, nomes claros)
-   - Link rodando em produção (GitHub Pages ou Vercel)
-
-5. COMMITS DESCRITIVOS
-   "fix bug" não conta história.
-   "fix: corrige layout mobile no header" mostra que você pensa como produto.
-
-6. README EM CADA PROJETO
-   - O que é (1-2 frases)
-   - Como rodar localmente
-   - Print ou GIF do resultado
-
-7. PORTFÓLIO PRÓPRIO (próximo passo natural)
-   Você já tem HTML/CSS/JS + Figma.
-   Um site no GitHub Pages com seus projetos vale mais que qualquer badge
-   e ainda é projeto concreto pra mostrar em entrevistas.
-
-8. CONSISTÊNCIA > VOLUME
-   Commits regulares mostram ritmo de trabalho.
-   Evita longos períodos sem atividade quando estiver procurando vaga.
-
-=======================================================================
--->
