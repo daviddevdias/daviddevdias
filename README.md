@@ -95,7 +95,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviddevdias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
