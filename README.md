@@ -5,18 +5,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=daviddevdias&label=Visitas+ao+perfil&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/daviddevdias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://wa.me/5551999086473"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:davidalbuquerquedias2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:davidalbuquerquedias02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -33,8 +28,11 @@ e ver o negócio ganhar vida na tela com HTML, CSS e JS.
 Vira e mexe tô no back-end ou escrevendo scripts em
 **Python e Node.js** pra automatizar o que dá.
 
-Objetivo a longo prazo é **Full Stack**. Procuro uma oportunidade
-pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
+Objetivo a longo prazo é **Full Stack**. Atualmente **aberto a oportunidades
+de estágio** — procuro colocar a mão na massa em projetos reais e crescer
+junto com a equipe.
+
+> 💼 **Disponível para estágio** em Desenvolvimento Web / Front-End
 
 <br clear="right"/>
 
@@ -70,6 +68,39 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 ---
 
+### Projetos em destaque
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>🤖 Groq Experiments</h4>
+      <sub>Python · API Groq · LLM</sub>
+      <br/><br/>
+      Testes e integrações com a API da Groq para processamento de linguagem natural e modelos de IA de alta performance.
+      <br/><br/>
+      <a href="https://github.com/daviddevdias/Groq-experiments">🔗 Ver repositório</a>
+    </td>
+    <td valign="top" width="33%">
+      <h4>📁 Organizador de Arquivos</h4>
+      <sub>Python · Automação</sub>
+      <br/><br/>
+      Automação para organização inteligente de arquivos. Identifica extensões e move documentos para pastas categorizadas automaticamente.
+      <br/><br/>
+      <a href="https://github.com/daviddevdias/Organizador-arquivos-python">🔗 Ver repositório</a>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🎵 Python-yt-mp3</h4>
+      <sub>Python · yt-dlp</sub>
+      <br/><br/>
+      Script para download e conversão automática de vídeos do YouTube para MP3. Simples, rápido e sem complicação.
+      <br/><br/>
+      <a href="https://github.com/daviddevdias/Python-yt-mp3">🔗 Ver repositório</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Stack
 
 <div align="center">
@@ -87,6 +118,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -128,6 +160,8 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
 
 **Análise e Desenvolvimento de Sistemas** — São João Batista de La Salle · 2025–2027
 
+**Santander 2025 – Front-End** — DIO · jul/2025 – out/2025
+
 **Lógica de Programação** (226h) — SENAC-RS · concluído em dez/2024
 
 </div>
@@ -146,7 +180,7 @@ pra colocar a mão na massa em projetos reais e crescer junto com a equipe.
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:davidalbuquerquedias2@gmail.com" target="_blank">
+<a href="mailto:davidalbuquerquedias02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
