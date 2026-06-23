@@ -105,7 +105,7 @@ junto com a equipe.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,c,figma,git,github,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,figma,git,github,linux&perline=10" />
 
 </div>
 
