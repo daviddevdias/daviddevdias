@@ -4,13 +4,12 @@
 
 > conserta o que tá quebrado — em lataria ou em código.
 
-Eu gosto de pegar uma ideia solta, desenhar ela no Figma e ver ela
-ganhar vida na tela. Depois, quando ninguém tá olhando, eu quebro a
-regra e vou mexer no back-end ou escrever um script em Python só pra
-automatizar alguma coisa que me irritava.
+Pego uma ideia solta, desenho ela no Figma, e vejo ela ganhar vida na
+tela com HTML, CSS e JS. Quando ninguém tá olhando, escrevo um script
+em Python só pra automatizar alguma coisa que me irritava.
 
-Não tenho uma stack "de coração". Tenho problema que eu quero
-resolver, e uso o que for preciso pra resolver ele.
+Não tenho stack "de coração" — tenho problema pra resolver, e uso o
+que for preciso.
 
 > [!TIP]
 > Disponível para estágio em Desenvolvimento Web / Front-End.
@@ -22,19 +21,18 @@ resolver, e uso o que for preciso pra resolver ele.
 **Martelinho de Ouro Premium** — Desenvolvedor Web
 *fev/2026 — atual*
 
-O site era WordPress. Tirei tudo e reescrevi do zero em HTML, CSS e
-JS puro — mais controle, mais desempenho. Layout mobile-first,
-animações, integração direta com WhatsApp e e-mail, pensado pra
-converter visita em cliente.
+Tirei o site do WordPress e reescrevi do zero em HTML, CSS e JS puro:
+layout mobile-first, animações, integração direta com WhatsApp e
+e-mail, foco em conversão.
 [→ ver o site](https://martelinhogoldimpact.com.br/martelinho-newpremium/)
 
-**Jarvis Assistant** — projeto pessoal
+**Mark-45-IA** — projeto pessoal
 *Python · arquitetura modular*
 
-Assistente pessoal com CRUD e backup de arquivos, monitoramento de
-CPU e disco, integração com APIs externas. `psutil`, `pathlib`,
-`pyautogui` — com log e tratamento de erro de verdade, não só um
-`try/except: pass`.
+Assistente pessoal (IA Jarvis) com CRUD e backup de arquivos,
+monitoramento de CPU e disco, integração com APIs externas.
+`psutil`, `pathlib`, `pyautogui` — com log e tratamento de erro de
+verdade, não só um `try/except: pass`.
 
 ---
 
@@ -42,9 +40,10 @@ CPU e disco, integração com APIs externas. `psutil`, `pathlib`,
 
 | Projeto | O que é |
 |---|---|
-| **[Groq Experiments](https://github.com/daviddevdias/Groq-experiments)** | Testes com a API da Groq pra processamento de linguagem natural |
-| **[Organizador de Arquivos](https://github.com/daviddevdias/Organizador-arquivos-python)** | Automação em Python que olha a extensão e já manda o arquivo pra pasta certa |
-| **[Python-yt-mp3](https://github.com/daviddevdias/Python-yt-mp3)** | Baixa vídeo do YouTube e converte pra MP3, sem enrolação |
+| **[Groq-experiments](https://github.com/daviddevdias/Groq-experiments)** | Testes e integrações com a API da Groq para processamento de linguagem natural |
+| **[Mark-45-IA](https://github.com/daviddevdias/Mark-45-IA)** | IA pessoal (Jarvis) — automação, monitoramento e integração de APIs |
+| **[Organizador-arquivos-python](https://github.com/daviddevdias/Organizador-arquivos-python)** | Identifica extensões e move arquivos pra pastas categorizadas automaticamente |
+| **[Python-learning-journey](https://github.com/daviddevdias/Python-learning-journey)** | Evolução nos estudos de Python — exercícios de lógica, algoritmos e scripts de automação |
 
 ---
 
