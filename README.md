@@ -1,193 +1,72 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=David%20Dias&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Desenvolvedor%20Web%20%7C%20Front-End%20%2B%20Python&descAlignY=58&descSize=18" />
-</div>
+# David Dias
 
-<br/>
+**Front-end · Python · Esteio/RS**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daviddevdias&label=Visitas+ao+perfil&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/daviddevdias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://wa.me/5551999086473"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:davidalbuquerquedias02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+> conserta o que tá quebrado — em lataria ou em código.
 
----
+Eu gosto de pegar uma ideia solta, desenhar ela no Figma e ver ela
+ganhar vida na tela. Depois, quando ninguém tá olhando, eu quebro a
+regra e vou mexer no back-end ou escrever um script em Python só pra
+automatizar alguma coisa que me irritava.
 
-<img align="right" src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="280" />
+Não tenho uma stack "de coração". Tenho problema que eu quero
+resolver, e uso o que for preciso pra resolver ele.
 
-### Quem sou eu
-
-Sou o **David**, de Esteio (RS) — cursando ADS e com foco em **Front-End**.
-Mas o que eu curto mesmo é resolver problemas, não importa a stack.
-
-Gosto do processo inteiro: pegar uma ideia, desenhar no **Figma**
-e ver o negócio ganhar vida na tela com HTML, CSS e JS.
-Vira e mexe tô no back-end ou escrevendo scripts em
-**Python e Node.js** pra automatizar o que dá.
-
-Objetivo a longo prazo é **Full Stack**. Atualmente **aberto a oportunidades
-de estágio** — procuro colocar a mão na massa em projetos reais e crescer
-junto com a equipe.
-
-> 💼 **Disponível para estágio** em Desenvolvimento Web / Front-End
-
-<br clear="right"/>
+> [!TIP]
+> Disponível para estágio em Desenvolvimento Web / Front-End.
 
 ---
 
-### Experiência
+## Experiência
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Martelinho de Ouro Premium</h4>
-      <sub><b>Desenvolvedor Web</b> · Fev 2026 – Presente</sub>
-      <br/><br/>
-      Refatorei o site completo saindo do WordPress e reescrevendo
-      do zero em <b>HTML, CSS e JS puros</b> — mais controle e desempenho.
-      Novo layout responsivo mobile-first, animações, integração direta
-      com WhatsApp e e-mail, e foco em conversão.
-      <br/><br/>
-      <a href="https://martelinhogoldimpact.com.br/martelinho-newpremium/">🔗 Ver site online</a>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Jarvis Assistant</h4>
-      <sub><b>Projeto pessoal</b> · Python · Arquitetura modular</sub>
-      <br/><br/>
-      Assistente pessoal com comandos customizados, gerenciamento de
-      arquivos (CRUD + backup), monitoramento de sistema (CPU, disco),
-      integração com APIs externas e automação de tarefas.
-      Uso de <code>psutil</code>, <code>pathlib</code>, <code>pyautogui</code>
-      com logs e tratamento de erros.
-    </td>
-  </tr>
-</table>
+**Martelinho de Ouro Premium** — Desenvolvedor Web
+*fev/2026 — atual*
+
+O site era WordPress. Tirei tudo e reescrevi do zero em HTML, CSS e
+JS puro — mais controle, mais desempenho. Layout mobile-first,
+animações, integração direta com WhatsApp e e-mail, pensado pra
+converter visita em cliente.
+[→ ver o site](https://martelinhogoldimpact.com.br/martelinho-newpremium/)
+
+**Jarvis Assistant** — projeto pessoal
+*Python · arquitetura modular*
+
+Assistente pessoal com CRUD e backup de arquivos, monitoramento de
+CPU e disco, integração com APIs externas. `psutil`, `pathlib`,
+`pyautogui` — com log e tratamento de erro de verdade, não só um
+`try/except: pass`.
 
 ---
 
-### Projetos em destaque
+## Projetos
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>🤖 Groq Experiments</h4>
-      <sub>Python · API Groq · LLM</sub>
-      <br/><br/>
-      Testes e integrações com a API da Groq para processamento de linguagem natural e modelos de IA de alta performance.
-      <br/><br/>
-      <a href="https://github.com/daviddevdias/Groq-experiments">🔗 Ver repositório</a>
-    </td>
-    <td valign="top" width="33%">
-      <h4>📁 Organizador de Arquivos</h4>
-      <sub>Python · Automação</sub>
-      <br/><br/>
-      Automação para organização inteligente de arquivos. Identifica extensões e move documentos para pastas categorizadas automaticamente.
-      <br/><br/>
-      <a href="https://github.com/daviddevdias/Organizador-arquivos-python">🔗 Ver repositório</a>
-    </td>
-    <td valign="top" width="33%">
-      <h4>🎵 Python-yt-mp3</h4>
-      <sub>Python · yt-dlp</sub>
-      <br/><br/>
-      Script para download e conversão automática de vídeos do YouTube para MP3. Simples, rápido e sem complicação.
-      <br/><br/>
-      <a href="https://github.com/daviddevdias/Python-yt-mp3">🔗 Ver repositório</a>
-    </td>
-  </tr>
-</table>
+| Projeto | O que é |
+|---|---|
+| **[Groq Experiments](https://github.com/daviddevdias/Groq-experiments)** | Testes com a API da Groq pra processamento de linguagem natural |
+| **[Organizador de Arquivos](https://github.com/daviddevdias/Organizador-arquivos-python)** | Automação em Python que olha a extensão e já manda o arquivo pra pasta certa |
+| **[Python-yt-mp3](https://github.com/daviddevdias/Python-yt-mp3)** | Baixa vídeo do YouTube e converte pra MP3, sem enrolação |
 
 ---
 
-### Stack
+## Stack
 
-<div align="center">
+![HTML](https://img.shields.io/badge/-HTML-caa456?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-caa456?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-caa456?style=flat-square) ![Python](https://img.shields.io/badge/-Python-caa456?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-caa456?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-caa456?style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-caa456?style=flat-square) ![Git](https://img.shields.io/badge/-Git-caa456?style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-caa456?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,figma,git,github,linux&perline=10" />
+## Estudando agora
 
-</div>
+FastAPI (APIs REST de verdade) · Performance web e Core Web Vitals ·
+Arquitetura de software
 
-<br/>
+## Formação
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+- Análise e Desenvolvimento de Sistemas — São João Batista de La Salle *(2025–2027)*
+- Santander 2025 – Front-End — DIO *(jul–out/2025)*
+- Lógica de Programação, 226h — SENAC-RS *(concluído dez/2024)*
 
 ---
 
-### GitHub Stats
+> [!NOTE]
+> Se você chegou até aqui, provavelmente tem uma vaga de estágio ou
+> quer trocar ideia sobre algum desses projetos. Nos dois casos, me chama:
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviddevdias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddevdias&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=daviddevdias&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
-</div>
-
----
-
-### Estudando agora
-
-<div align="center">
-
-| Tecnologia | Foco |
-| :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=fastapi" height="24"/> | **FastAPI** — construindo APIs REST com Python |
-| <img src="https://skillicons.dev/icons?i=js" height="24"/> | **Performance Web** — otimização, Core Web Vitals |
-| <img src="https://skillicons.dev/icons?i=git" height="24"/> | **Arquitetura de Software** — padrões e boas práticas |
-
-</div>
-
----
-
-### Formação
-
-<div align="center">
-
-**Análise e Desenvolvimento de Sistemas** — São João Batista de La Salle · 2025–2027
-
-**Santander 2025 – Front-End** — DIO · jul/2025 – out/2025
-
-**Lógica de Programação** (226h) — SENAC-RS · concluído em dez/2024
-
-</div>
-
----
-
-<div align="center">
-
-### Bora trocar ideia?
-
-<a href="https://www.linkedin.com/in/daviddevdias/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://wa.me/5551999086473" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:davidalbuquerquedias02@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-
-
+**[LinkedIn](https://www.linkedin.com/in/daviddevdias/)** · **[WhatsApp](https://wa.me/5551999086473)** · **[E-mail](mailto:davidalbuquerquedias02@gmail.com)**
