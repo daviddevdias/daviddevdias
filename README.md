@@ -10,7 +10,6 @@
 Tirei o site do WordPress e reescrevi do zero em HTML, CSS e JS puro:
 layout mobile-first, animações, integração direta com WhatsApp e
 e-mail, foco em conversão.
-[→ ver o site](https://martelinhogoldimpact.com.br/martelinho-newpremium/)
 
 **Mark-45-IA** — projeto pessoal
 *Python · arquitetura modular*
