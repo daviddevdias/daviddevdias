@@ -7,7 +7,7 @@ Web Developer • Frontend • Python
 
 ──────────────────────────────────────────────
 
-Languages     :: HTML • CSS • JavaScript • Python
+Languages     :: HTML • CSS • JavaScript • Python • SQL SERVER • Node Js 
 Frontend      :: HTML • CSS • JavaScript • Figma
 Backend       :: Node.js • Python • FastAPI
 Database      :: SQL Server
