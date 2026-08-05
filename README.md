@@ -1,5 +1,3 @@
-DESENVOLVEDOR WEB 
-
 <br>
 
 ```bash
