@@ -2,20 +2,6 @@
 
 **Front-end · Python · Esteio/RS**
 
-> conserta o que tá quebrado — em lataria ou em código.
-
-Pego uma ideia solta, desenho ela no Figma, e vejo ela ganhar vida na
-tela com HTML, CSS e JS. Quando ninguém tá olhando, escrevo um script
-em Python só pra automatizar alguma coisa que me irritava.
-
-Não tenho stack "de coração" — tenho problema pra resolver, e uso o
-que for preciso.
-
-> [!TIP]
-> Disponível para estágio em Desenvolvimento Web / Front-End.
-
----
-
 ## Experiência
 
 **Martelinho de Ouro Premium** — Desenvolvedor Web
