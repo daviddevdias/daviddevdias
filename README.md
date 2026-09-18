@@ -15,7 +15,6 @@ Tools         :: Git • Linux • VS Code • Postman
 
 ──────────────────────────────────────────────
 
-Experience    :: 1 year 5 months
 Education     :: Análise e Desenvolvimento de Sistemas
                  Universidade La Salle
 
