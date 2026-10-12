@@ -31,7 +31,6 @@ Assistente virtual com IA local, em desenvolvimento desde março de 2025.
 - Roda com Ollama, sem depender de API paga
 
 **Stack:** Python · Flask · WebSocket · Ollama
-**Repositório:** [LINK_DO_REPOSITORIO](LINK_DO_REPOSITORIO)
 
 ## Outros projetos
 
