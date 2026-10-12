@@ -1,64 +1,99 @@
-# David Dias
+<h1 align="center">David Dias</h1>
 
-**Desenvolvimento de software e automação**
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · Python, JavaScript e automação<br>
+  Esteio, RS · Buscando estágio em desenvolvimento de software ou TI
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade La Salle. Desenvolvo projetos com Python e JavaScript e tenho experiência freelancer com criação de interfaces web responsivas.
+<p align="center">
+  <a href="https://daviddias.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-daviddias.netlify.app-0A0A0A?style=for-the-badge" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/daviddevdias"><img src="https://img.shields.io/badge/LinkedIn-daviddevdias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:davidalbuquerquedias02@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-Busco uma oportunidade de estágio em desenvolvimento de software ou TI para contribuir com projetos, aprender com a equipe e ampliar minha experiência prática.
+---
 
-## 🚀 Projetos no GitHub
+## Sobre
 
-- [Organizador de arquivos com Python](https://github.com/daviddevdias/Organizador-arquivos-python): automação para classificar e mover arquivos de acordo com a extensão.
-- [Assistente de voz com Groq](https://github.com/daviddevdias/ai-chatbot-groq): protótipo com reconhecimento de fala, respostas de IA e geração de áudio por serviços externos.
-- [Interface inspirada no Spotify](https://github.com/daviddevdias/web-spotify-clone): página estática para praticar HTML, CSS e layout.
-- [Fundamentos de JavaScript](https://github.com/daviddevdias/javascript-fundamentals): exercícios organizados por tema e uma simulação de estoque no terminal.
+Cursando Análise e Desenvolvimento de Sistemas na Universidade La Salle. Desenvolvo com Python e JavaScript e trabalho como freelancer criando interfaces web responsivas.
 
-## 💼 Experiência
+Procuro um estágio para contribuir com projetos reais, aprender com uma equipe e ganhar experiência prática.
 
-### Desenvolvedor web freelancer na Martelinhos Premium
+## Projeto em destaque: Mark 2
 
-Em janeiro de 2026, reestruturei um site originalmente feito em WordPress utilizando HTML, CSS e JavaScript. Adaptei o layout para desktop e dispositivos móveis, integrei formulários com e-mail e WhatsApp e revisei textos e imagens para melhorar a apresentação e o carregamento das páginas.
+<!-- Troque pelo print ou GIF da interface (HUD). Esse é o item que mais chama atenção. -->
+<!-- <p align="center"><img src="CAMINHO_DO_GIF" width="700" alt="Interface do Mark 2"></p> -->
 
-## Projeto pessoal
+Assistente virtual com IA local, em desenvolvimento desde março de 2025.
 
-### Mark 2
+- Reconhece comandos de voz e faz buscas na web
+- Painel Flask com WebSocket para comunicação em tempo real
+- Roda com Ollama, sem depender de API paga
 
-Desenvolvo desde março de 2025 um assistente virtual em Python, Flask e Ollama para estudar IA local e automação. O projeto reconhece comandos de voz, realiza buscas na web e utiliza um painel Flask com WebSocket para comunicação em tempo real.
+**Stack:** Python · Flask · WebSocket · Ollama
+**Repositório:** [LINK_DO_REPOSITORIO](LINK_DO_REPOSITORIO)
 
-O Mark 2 está em desenvolvimento. Nele, estudo integração entre interface, comandos de voz e automação.
+## Outros projetos
 
-## 🛠️ Conhecimentos
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Organizador de arquivos](https://github.com/daviddevdias/Organizador-arquivos-python) | Classifica e move arquivos pela extensão | Python |
+| [Assistente de voz com Groq](https://github.com/daviddevdias/ai-chatbot-groq) | Reconhecimento de fala, respostas de IA e geração de áudio | Python, Groq |
+| [Clone da interface do Spotify](https://github.com/daviddevdias/web-spotify-clone) | Página estática para praticar layout | HTML, CSS |
+| [Fundamentos de JavaScript](https://github.com/daviddevdias/javascript-fundamentals) | Exercícios por tema e simulação de estoque no terminal | JavaScript |
 
-- **Linguagens:** JavaScript, Python, HTML e CSS.
-- **Backend:** Node.js, Flask e criação e consumo de APIs REST.
-- **Dados:** SQL, SQL Server e modelagem básica.
-- **Ferramentas:** Git, GitHub, GitLab, Bitbucket, Linux, terminal e PowerShell.
-- **Interfaces:** design responsivo e Figma.
-- **Suporte de TI:** instalação e configuração do Windows e diagnóstico de problemas de hardware.
-- **Redes em estudo:** fundamentos de TCP/IP e DNS.
+## Experiência
 
-## 🎓 Formação
+**Desenvolvedor web freelancer · Martelinhos Premium** · jan/2026
 
-- Análise e Desenvolvimento de Sistemas na Universidade La Salle, em andamento.
-- Lógica de Programação no SENAC RS, concluído em 2024, com carga horária de 226 horas.
-- Santander Bootcamp 2025, trilha Front End, pela Santander Open Academy e DIO, concluído em agosto de 2025, com carga horária de 102 horas.
+Reestruturei um site feito em WordPress, reescrevendo em HTML, CSS e JavaScript. Adaptei o layout para desktop e mobile, integrei formulários com e-mail e WhatsApp e revisei textos e imagens para melhorar a apresentação e o carregamento das páginas.
 
-## Estudos e exercícios
+## Tecnologias
 
-- [Jornada de aprendizado em Python](https://github.com/daviddevdias/Python-learning-journey).
-- [Lógica e algoritmos em JavaScript](https://github.com/daviddevdias/logic-and-algorithms-js).
-- [Classificador de nível de herói](https://github.com/daviddevdias/hero-level-classifier).
-- [Exercícios de interatividade no navegador](https://github.com/daviddevdias/database-practice-js).
-- [Experimentos com Groq](https://github.com/daviddevdias/Groq-experiments).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-Os repositórios de estudo incluem exercícios e versões intermediárias. Os projetos de IA são protótipos e dependem de configuração local.
+**Também trabalho com:** APIs REST, SQL e modelagem básica, GitLab, Bitbucket, PowerShell, instalação e configuração do Windows, diagnóstico de hardware.
+**Em estudo:** redes (TCP/IP e DNS).
+
+## Formação
+
+- **Análise e Desenvolvimento de Sistemas** · Universidade La Salle · em andamento
+- **Santander Bootcamp 2025, trilha Front End** · Santander Open Academy e DIO · ago/2025 · 102 h
+- **Lógica de Programação** · SENAC RS · 2024 · 226 h
+
+<details>
+<summary><b>Estudos e exercícios</b></summary>
+
+<br>
+
+Repositórios de estudo, com exercícios e versões intermediárias:
+
+- [Jornada de aprendizado em Python](https://github.com/daviddevdias/Python-learning-journey)
+- [Lógica e algoritmos em JavaScript](https://github.com/daviddevdias/logic-and-algorithms-js)
+- [Classificador de nível de herói](https://github.com/daviddevdias/hero-level-classifier)
+- [Exercícios de interatividade no navegador](https://github.com/daviddevdias/database-practice-js)
+- [Experimentos com Groq](https://github.com/daviddevdias/Groq-experiments)
+
+Os projetos de IA são protótipos e dependem de configuração local.
+
+</details>
 
 ## Idiomas
 
-Português nativo e inglês básico a intermediário, com leitura de documentação técnica.
+Português nativo · Inglês básico a intermediário, com leitura de documentação técnica.
 
-## 📬 Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/daviddevdias).
-- [Portfólio](https://daviddias.netlify.app).
-- [GitHub](https://github.com/daviddevdias).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daviddevdias&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddevdias&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" height="150">
+</p>
